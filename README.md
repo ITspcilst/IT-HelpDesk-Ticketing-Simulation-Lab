@@ -35,12 +35,11 @@ All scenarios are based on common Service Desk incidents encountered in corporat
 
 ## Ticket Scenarios Included
 
-1. Network Connectivity Issue
-[Network Connectivity](/screenshots/Network_Connectivity_Issue.png)  
-3. Active Directory Account Lockout  
-4. Outlook Not Syncing  
-5. Network Printer Offline  
-6. Slow Performance on Workstation  
+1. Network Connectivity Issue 
+2. Active Directory Account Lockout  
+3. Outlook Not Syncing  
+4. Network Printer Offline  
+5. Slow Performance on Workstation  
 
 Each ticket includes:
 - Incident Summary
