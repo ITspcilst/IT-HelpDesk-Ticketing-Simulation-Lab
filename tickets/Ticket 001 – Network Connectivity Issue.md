@@ -29,4 +29,4 @@ Suspected DNS server issue.
 Escalated to Tier 2 Network Team for DNS infrastructure investigation.
 
 ## Screenshot Evidence
-![Network Ticket](../screenshots/network-connectivity.png)
+![Network Ticket](screenshots/Network_Connectivity_Issue.png)
