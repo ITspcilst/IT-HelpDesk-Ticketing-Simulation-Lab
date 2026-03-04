@@ -1,25 +1,32 @@
 # Ticket 001 – Network Connectivity Issue
 
 ## Incident Summary
-Brief description of the issue reported by the user.
+User reported inability to access the internet and internal resources. LAN cable connected and link light active.
 
 ## User Impact
-Explain how the problem affects the user’s ability to work.
+User unable to perform work tasks requiring network access.
 
 ## Environment
-Operating system, network type, or relevant system.
+Windows 10 workstation connected to corporate LAN using DHCP.
 
 ## Troubleshooting Performed
-Step-by-step actions taken to diagnose the issue.
+- Verified physical network connection
+- Checked IP configuration using `ipconfig`
+- Confirmed device obtained valid DHCP lease
+- Pinged default gateway – successful
+- Pinged external IP (8.8.8.8) – successful
+- Tested DNS resolution – failed
+- Flushed DNS cache (`ipconfig /flushdns`)
+- Renewed DHCP lease (`ipconfig /renew`)
 
 ## Findings
-What you discovered from the troubleshooting.
+Network connectivity functioning locally but DNS resolution failing.
 
 ## Root Cause
-The reason the issue occurred (or suspected cause).
+Suspected DNS server issue.
 
 ## Resolution / Action Taken
-What was done to fix the issue or escalate it.
+Escalated to Tier 2 Network Team for DNS infrastructure investigation.
 
 ## Screenshot Evidence
-[Network_Connectivity_Issue]()
+![Network Ticket](../screenshots/network-connectivity.png)
