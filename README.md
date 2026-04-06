@@ -38,8 +38,7 @@ All scenarios are based on common Service Desk incidents encountered in corporat
 1. [Network Connectivity Issue](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20001%20%E2%80%93%20Network%20Connectivity%20Issue.md)
 2. [Active Directory Account Lockout](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20002%20-%20Account%20Lockout.md)  
 3. [Outlook Not Syncing](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20003%20%E2%80%93%20Application%20Access%20Issue)
-4. [Network Printer Offline]()
-5. [Slow Performance on Workstation]()
+4. [Slow Performance on Workstation](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20004%20%E2%80%93%20Workstation%20Performance%20Issue.md)
 
 Each ticket includes:
 - Incident Summary
