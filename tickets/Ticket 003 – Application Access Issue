@@ -1,0 +1,32 @@
+# Ticket 003 – Application Access Issue
+
+## Incident Summary
+User reported inability to access a business application required for daily operations.
+
+## User Impact
+User unable to complete work tasks requiring the application.
+
+## Environment
+Windows 10 workstation connected to corporate network.
+
+## Troubleshooting Performed
+- Verified network connectivity
+- Confirmed user authentication successful
+- Restarted application
+- Checked application configuration settings
+- Cleared cached credentials
+- Tested login using a new application session
+
+## Findings
+Application configuration file appeared corrupted causing authentication failure.
+
+## Root Cause
+Corrupted application configuration.
+
+## Resolution / Action Taken
+Application configuration reset and application restarted.  
+User confirmed successful access.
+
+## Screenshot Evidence
+Outlook connection error:
+![Application Issue Ticket](../screenshots/application-issue.png)
