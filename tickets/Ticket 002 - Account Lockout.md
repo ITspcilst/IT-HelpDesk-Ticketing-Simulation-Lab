@@ -27,6 +27,7 @@ Account unlocked in Active Directory.
 User advised to update stored credentials on all connected devices.
 
 ## Screenshot Evidence
-
+Account Lockout:
 ![Account Lockout Ticket](../screenshots/ticket02-account-locked.png)
+Account Unlocked:
 ![Account Unlocked](../screenshots/ticket02-account-unlocked.png)
