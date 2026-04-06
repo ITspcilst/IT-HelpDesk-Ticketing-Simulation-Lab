@@ -35,7 +35,7 @@ All scenarios are based on common Service Desk incidents encountered in corporat
 
 ## Ticket Scenarios Included
 
-1. [Network Connectivity Issue]()
+1. [Network Connectivity Issue](tickets/Ticket 001 – Network Connectivity Issue.md)
 2. Active Directory Account Lockout  
 3. Outlook Not Syncing  
 4. Network Printer Offline  
