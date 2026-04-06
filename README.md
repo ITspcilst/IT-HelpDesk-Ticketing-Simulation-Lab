@@ -36,10 +36,10 @@ All scenarios are based on common Service Desk incidents encountered in corporat
 ## Ticket Scenarios Included
 
 1. [Network Connectivity Issue](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20001%20%E2%80%93%20Network%20Connectivity%20Issue.md)
-2. Active Directory Account Lockout  
-3. Outlook Not Syncing  
-4. Network Printer Offline  
-5. Slow Performance on Workstation  
+2. [Active Directory Account Lockout]()  
+3. [Outlook Not Syncing]()
+4. [Network Printer Offline]()
+5. [Slow Performance on Workstation]()
 
 Each ticket includes:
 - Incident Summary
