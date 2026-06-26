@@ -36,16 +36,16 @@ All scenarios are based on common Service Desk incidents encountered in corporat
 ## Ticket Scenarios Included
 
 ### 1.) Network Connectivity Issue
-![Network Connectivity Issue](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20001%20%E2%80%93%20Network%20Connectivity%20Issue.md)
+[Network Connectivity Issue](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20001%20%E2%80%93%20Network%20Connectivity%20Issue.md)
 
 ### 2.) AD Account Lockout 
-![Active Directory Account Lockout](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20002%20-%20Account%20Lockout.md)  
+[Active Directory Account Lockout](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20002%20-%20Account%20Lockout.md)  
 
 ### 3.) Outlook Syncronization Issue 
-![Outlook Not Syncing](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20003%20%E2%80%93%20Application%20Access%20Issue.md)
+[Outlook Not Syncing](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20003%20%E2%80%93%20Application%20Access%20Issue.md)
 
 ### Performance Issue on Workstation
-![Slow Performance on Workstation](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20004%20%E2%80%93%20Workstation%20Performance%20Issue.md)
+[Slow Performance on Workstation](https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab/blob/main/tickets/Ticket%20004%20%E2%80%93%20Workstation%20Performance%20Issue.md)
 
 Each ticket includes:
 - Incident Summary
